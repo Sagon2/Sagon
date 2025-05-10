@@ -11090,3 +11090,54 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10May2025 04:02:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> lo voy a duplicar
 [10May2025 04:04:40.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 04:04:40.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:06:07.983] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:06:07.983] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 95
+}
+[10May2025 04:06:07.983] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 04:06:07.984] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "wQ4336inj]`"
+]
+[10May2025 04:07:16.797] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:07:16.797] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 56
+}
+[10May2025 04:07:16.797] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 04:07:16.798] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "M|\\#c9P&?N]4803j,n/c"
+]
+[10May2025 04:09:20.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> santi
+[10May2025 04:09:40.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:09:40.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:10:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ????
+[10May2025 04:10:43.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hablas o no
+[10May2025 04:10:58.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> todavía no pedo
+[10May2025 04:11:29.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pinche Gonciiiiii
+[10May2025 04:11:35.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> jajaja
+[10May2025 04:12:53.060] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:12:53.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13814
+}
+[10May2025 04:12:53.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 04:12:53.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "o{XLq@obo52CH\\L480])"
+]
+[10May2025 04:13:23.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-268, y=69, z=1064} BlockPos{x=-287, y=71, z=1070}
+[10May2025 04:14:40.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:14:40.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:15:40.836] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:15:40.836] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 925405
+}
+[10May2025 04:15:40.836] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[10May2025 04:15:40.836] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Ji9@>5tEUJkB+X320nC0B~"
+]
