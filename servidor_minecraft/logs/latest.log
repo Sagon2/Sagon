@@ -3444,3 +3444,57 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [
   "Ji9@>5tEUJkB+X320nC0B~"
 ]
+[10May2025 04:16:55.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> me revivis
+[10May2025 04:16:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> GOGOGOG
+[10May2025 04:17:11.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> VENIII
+[10May2025 04:18:15.359] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:18:15.359] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 92
+}
+[10May2025 04:18:15.359] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 04:18:15.360] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "dQ=K+Ye3368jCY6b_"
+]
+[10May2025 04:18:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Mutant Skeleton
+[10May2025 04:18:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> 1 coraa
+[10May2025 04:18:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =(
+[10May2025 04:18:33.422] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:18:33.422] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1402
+}
+[10May2025 04:18:33.423] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 04:18:33.423] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$%s{!<:B/480,a%"
+]
+[10May2025 04:19:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Mutant Skeleton
+[10May2025 04:20:11.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> te hago laa armadura
+[10May2025 04:22:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> faltan dos partes
+[10May2025 04:23:04.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> fijate si no las tenes
+[10May2025 04:23:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> yo no tenr nada
+[10May2025 04:24:10.090] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:24:10.090] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1988118
+}
+[10May2025 04:24:10.090] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[10May2025 04:24:10.091] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "X6@c3Y(!;hB4805vJjA"
+]
+[10May2025 04:24:22.866] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:24:22.866] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 7632
+}
+[10May2025 04:24:22.866] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 04:24:22.866] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "J9D=X_)PJ0'336==|hq"
+]
+[10May2025 04:25:38.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[10May2025 04:25:38.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[10May2025 04:25:38.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
