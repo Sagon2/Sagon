@@ -3346,3 +3346,54 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10May2025 03:54:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
 [10May2025 03:54:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> UFFFFFF
 [10May2025 03:54:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> era chiste, ni tengo OP
+[10May2025 03:56:07.652] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:56:07.652] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15106
+}
+[10May2025 03:56:07.652] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 03:56:07.652] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "BL0N\\7XBi;MxKC480s%DWOh"
+]
+[10May2025 03:56:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> ciao
+[10May2025 03:56:40.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[10May2025 03:56:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[10May2025 03:56:40.410] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[10May2025 03:56:45.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> se fue
+[10May2025 03:56:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> quieren hablar
+[10May2025 03:57:52.352] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:57:52.353] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 261998418
+}
+[10May2025 03:57:52.353] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[10May2025 03:57:52.353] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "qRC)Gq%Qnk320`]M_|"
+]
+[10May2025 03:58:35.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> no
+[10May2025 03:58:51.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> mas tarde si queres
+[10May2025 03:59:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[10May2025 03:59:47.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me voy
+[10May2025 03:59:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> bye uye
+[10May2025 04:00:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[10May2025 04:00:11.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[10May2025 04:00:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[10May2025 04:00:11.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[10May2025 04:01:41.090] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:01:41.090] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8121
+}
+[10May2025 04:01:41.090] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 04:01:41.090] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "w;2?wRG`Bii&4800$u86,3 "
+]
+[10May2025 04:01:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonciiii
+[10May2025 04:02:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[10May2025 04:02:38.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ya te robé tu pólvora
+[10May2025 04:02:49.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ahora te lo devuelvo
+[10May2025 04:02:49.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hblamos
+[10May2025 04:02:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> lo voy a duplicar
