@@ -3674,3 +3674,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [
   "[[TkoVarm*480Pxf2P?T"
 ]
+[10May2025 04:36:22.345] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:36:22.345] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 120
+}
+[10May2025 04:36:22.345] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 04:36:22.345] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'^vOgCbwf=}336'gp"
+]
+[10May2025 04:37:58.590] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:37:58.590] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 109
+}
+[10May2025 04:37:58.591] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 04:37:58.591] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1ZR]'?J2uPl6PY320!ItM.J"
+]
+[10May2025 04:38:16.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=70, z=1065} BlockPos{x=-318, y=70, z=1065}
+[10May2025 04:39:19.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> juego de mieeeeeeeerdaaaaaaa
+[10May2025 04:39:29.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was killed by Necromancer's magic missile
+[10May2025 04:39:31.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que se vaya todo a la ************
+[10May2025 04:39:43.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Nightmare Stalker
+[10May2025 04:39:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> dormiiii
+[10May2025 04:39:57.028] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:39:57.028] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1698391
+}
+[10May2025 04:39:57.029] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[10May2025 04:39:57.029] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "(R|W[{%:_qb-23042DyNt"
+]
+[10May2025 04:39:58.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Dread Hound
+[10May2025 04:40:32.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Dread Hound
+[10May2025 04:40:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que mod más espamero
+[10May2025 04:41:15.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> me salió un bicho invisible
+[10May2025 04:41:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Dread Hound
+[10May2025 04:41:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uyuyuyyu
+[10May2025 04:41:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ya lo conosco
+[10May2025 04:42:27.708] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 04:42:27.709] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 72
+}
+[10May2025 04:42:27.709] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 04:42:27.709] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r[L_#K336r*rjzK"
+]
+[10May2025 04:42:29.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[10May2025 04:44:21.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[10May2025 04:44:48.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[10May2025 04:45:37.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> logré mi cometido
+[10May2025 04:45:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> cual
+[10May2025 04:45:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pero a que costo
