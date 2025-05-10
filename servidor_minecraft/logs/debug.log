@@ -10906,3 +10906,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10May2025 03:22:40.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pinche Gonci/lobo3224
 [10May2025 03:24:40.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 03:24:40.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 03:27:31.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonciiiii
+[10May2025 03:27:33.163] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:27:33.164] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 81
+}
+[10May2025 03:27:33.164] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 03:27:33.164] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n+[I!}f480r&/ "
+]
+[10May2025 03:27:47.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> usalo con sabiduría
+[10May2025 03:28:27.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[10May2025 03:29:40.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 03:29:40.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 03:32:46.920] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:32:46.920] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 41
+}
+[10May2025 03:32:46.920] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 03:32:46.920] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".Pp[U&V<4-H/G320<kjg<m"
+]
+[10May2025 03:33:10.072] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:33:10.072] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 46
+}
+[10May2025 03:33:10.072] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 03:33:10.072] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "MXjQJSeqS9k*$qNB480>Xil2"
+]
+[10May2025 03:34:22.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by kevedo909
+[10May2025 03:34:40.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 03:34:40.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
