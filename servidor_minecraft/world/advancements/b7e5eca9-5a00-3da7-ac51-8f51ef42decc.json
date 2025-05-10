@@ -7511,6 +7511,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-10 00:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-10 00:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-10 00:44:42 +0000"
@@ -7571,27 +7583,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "crying_obsidian": "2025-05-10 00:28:23 +0000"
+      "has_granite": "2025-05-10 00:44:42 +0000"
     },
     "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-10 00:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-10 00:28:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-05-10 00:44:42 +0000"
     },
     "done": true
   },

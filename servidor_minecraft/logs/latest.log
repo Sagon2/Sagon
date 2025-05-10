@@ -2498,3 +2498,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10May2025 02:23:26.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [10May2025 02:23:27.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [10May2025 02:23:27.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[10May2025 02:24:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Skeleton
+[10May2025 02:25:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[10May2025 02:27:09.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Door Knight
+[10May2025 02:27:38.913] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[10May2025 02:28:00.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza?
+[10May2025 02:28:27.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Pic-A-Nic Basket?]
+[10May2025 02:30:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was doomed to fall by Skeleton
+[10May2025 02:30:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[10May2025 02:31:00.065] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 02:31:00.073] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3576
+}
+[10May2025 02:31:00.073] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 02:31:00.078] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "C1mrIQ480hd2j,&"
+]
+[10May2025 02:31:22.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-320, y=66, z=1150} BlockPos{x=-320, y=65, z=1150}
+[10May2025 02:32:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was blown up by Crawler

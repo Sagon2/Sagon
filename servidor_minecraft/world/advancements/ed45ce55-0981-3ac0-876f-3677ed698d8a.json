@@ -3774,5 +3774,23 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-05-10 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-05-10 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-10 02:28:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
