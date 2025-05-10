@@ -2358,7 +2358,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-07 23:53:37 +0000",
       "minecraft:spider": "2025-05-06 01:49:30 +0000",
-      "minecraft:zombie": "2025-05-08 00:14:54 +0000"
+      "minecraft:zombie": "2025-05-08 00:14:54 +0000",
+      "minecraft:zombie_villager": "2025-05-10 03:40:24 +0000"
     },
     "done": false
   },
@@ -4273,6 +4274,12 @@
   "cfm:recipes/decorations/stripped_mangrove_chair": {
     "criteria": {
       "has_planks": "2025-05-10 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-10 03:36:10 +0000"
     },
     "done": true
   },
