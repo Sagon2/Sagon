@@ -10979,3 +10979,52 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10May2025 03:44:40.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 03:44:40.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10May2025 03:45:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by YOUNGDINO07
+[10May2025 03:46:09.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by kevedo909
+[10May2025 03:48:02.404] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:48:02.405] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 39
+}
+[10May2025 03:48:02.405] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 03:48:02.405] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "KNslF=9><336Wumw0"
+]
+[10May2025 03:48:05.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[10May2025 03:48:21.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Made lobo3224 no longer a server operator]
+[10May2025 03:48:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by kevedo909
+[10May2025 03:48:58.510] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=ab74ae7a-dcd4-43be-a903-7ff4ff74fa83}
+[10May2025 03:49:05.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:49:05.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 296975
+}
+[10May2025 03:49:05.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[10May2025 03:49:05.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#M\\wH<;e_Dd3Up-w&ay/320p(3L!Pv"
+]
+[10May2025 03:49:24.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 starved to death
+[10May2025 03:49:29.992] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=null}
+[10May2025 03:49:40.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 03:49:40.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 03:50:02.814] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:50:02.814] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 255059
+}
+[10May2025 03:50:02.814] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[10May2025 03:50:02.815] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".9L44IJ&480 F4f(%yO"
+]
+[10May2025 03:50:35.527] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of YOUNGDINO07: {disabled=false, disconnected=false, uuid=ed45ce55-0981-3ac0-876f-3677ed698d8a, name=YOUNGDINO07, group=null}
+[10May2025 03:50:37.144] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of YOUNGDINO07: {disabled=false, disconnected=false, uuid=ed45ce55-0981-3ac0-876f-3677ed698d8a, name=YOUNGDINO07, group=ab74ae7a-dcd4-43be-a903-7ff4ff74fa83}
+[10May2025 03:52:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[10May2025 03:54:22.658] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[10May2025 03:54:23.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> 7give @a 64 coblestone
+[10May2025 03:54:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
+[10May2025 03:54:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> UFFFFFF
+[10May2025 03:54:40.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 03:54:40.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 03:54:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> era chiste, ni tengo OP

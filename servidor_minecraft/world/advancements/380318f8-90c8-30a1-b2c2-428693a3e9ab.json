@@ -4175,6 +4175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_log": "2025-05-10 03:21:46 +0000"
@@ -4205,6 +4211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-05-10 03:21:45 +0000"
@@ -4223,6 +4235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-05-10 03:21:45 +0000"
@@ -4232,6 +4250,12 @@
   "cfm:recipes/decorations/mangrove_coffee_table": {
     "criteria": {
       "has_log": "2025-05-10 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-10 03:53:27 +0000"
     },
     "done": true
   },
@@ -4250,6 +4274,12 @@
   "cfm:recipes/decorations/stripped_mangrove_park_bench": {
     "criteria": {
       "has_log": "2025-05-10 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
     },
     "done": true
   },
@@ -4289,6 +4319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_desk_cabinet": {
     "criteria": {
       "has_log": "2025-05-10 03:21:46 +0000"
@@ -4325,6 +4361,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-10 03:21:45 +0000"
@@ -4334,6 +4376,12 @@
   "cfm:recipes/decorations/stripped_mangrove_cabinet": {
     "criteria": {
       "has_log": "2025-05-10 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
     },
     "done": true
   },
@@ -4382,6 +4430,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-05-10 03:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
     },
     "done": true
   },
@@ -4436,6 +4490,24 @@
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-10 03:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-10 03:53:27 +0000"
     },
     "done": true
   },
