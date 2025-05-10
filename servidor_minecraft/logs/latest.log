@@ -2518,3 +2518,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [10May2025 02:31:22.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-320, y=66, z=1150} BlockPos{x=-320, y=65, z=1150}
 [10May2025 02:32:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was blown up by Crawler
+[10May2025 02:34:46.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 hit the ground too hard
+[10May2025 02:34:52.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> uf
+[10May2025 02:36:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[10May2025 02:40:00.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.229.118.229:49283] logged in with entity id 10554 at (-310.74798024087505, 73.0, 1053.7259788499343)
+[10May2025 02:40:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[10May2025 02:40:00.887] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[10May2025 02:40:02.065] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[10May2025 02:40:02.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[10May2025 02:40:09.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[10May2025 02:40:10.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[10May2025 02:40:10.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[10May2025 02:41:13.758] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 02:41:13.758] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 24
+}
+[10May2025 02:41:13.759] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 02:41:13.759] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/CY4NsFH9xryk3;6d320}AbJ"
+]
+[10May2025 02:41:16.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> no me dejan ni aparecer =(
+[10May2025 02:41:24.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[10May2025 02:41:26.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y me matan igual
+[10May2025 02:41:40.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> encima justo tengo que entrar cuando es de nooche
+[10May2025 02:41:47.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> entra al grupo
+[10May2025 02:41:57.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> no puedo
+[10May2025 02:42:01.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> por
+[10May2025 02:42:18.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> aquí haber mutu ruido
+[10May2025 02:42:18.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[10May2025 02:42:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =(
+[10May2025 02:42:49.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[10May2025 02:42:49.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[10May2025 02:42:49.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[10May2025 02:43:25.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[10May2025 02:43:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[10May2025 02:43:25.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[10May2025 02:43:25.313] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10May2025 02:43:54.475] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 02:43:54.476] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 39
+}
+[10May2025 02:43:54.476] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 02:43:54.476] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9$Kt#(vrcTFN0|L320(\"kV&"
+]
