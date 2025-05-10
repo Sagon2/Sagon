@@ -2857,3 +2857,64 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10May2025 03:03:26.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-249, y=74, z=1105} BlockPos{x=-249, y=70, z=1107}
 [10May2025 03:03:28.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-248, y=75, z=1107} BlockPos{x=-248, y=70, z=1108}
 [10May2025 03:03:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Hollow Soldier
+[10May2025 03:04:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by kevedo909
+[10May2025 03:04:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> wuajajaja
+[10May2025 03:05:36.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[10May2025 03:05:36.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[10May2025 03:05:36.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[10May2025 03:06:16.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[10May2025 03:06:16.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[10May2025 03:06:16.210] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[10May2025 03:09:13.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.229.118.229:47683] logged in with entity id 23998 at (-310.4523041538663, 68.0, 1150.2939736497165)
+[10May2025 03:09:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[10May2025 03:09:13.540] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[10May2025 03:09:14.011] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[10May2025 03:09:14.012] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[10May2025 03:09:20.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[10May2025 03:09:21.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[10May2025 03:09:21.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[10May2025 03:09:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> YA ENTENDI PORQUE ES SAGON
+[10May2025 03:09:45.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nooooo, la chambiniii
+[10May2025 03:09:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> sa de santi y gon de gonza
+[10May2025 03:10:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> kegus
+[10May2025 03:10:14.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> nooooo wachoo, descubriste la formula de la polvora bld
+[10May2025 03:10:15.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agusvin
+[10May2025 03:10:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> descubriste nuestro pequeño secretito
+[10May2025 03:10:25.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[10May2025 03:10:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> el acelerador de particulas wacho
+[10May2025 03:10:39.635] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:10:39.636] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[10May2025 03:10:39.636] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10May2025 03:10:39.636] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "L5|u,Y,#&Gp480IE8}zKe"
+]
+[10May2025 03:10:49.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> maxtin
+[10May2025 03:10:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agusmo
+[10May2025 03:11:04.366] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:11:04.366] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 9550
+}
+[10May2025 03:11:04.367] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 03:11:04.367] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Xh}$Rs1R@\"-336yU8I5Nm"
+]
+[10May2025 03:11:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agusimo :0
+[10May2025 03:11:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> agusto no se que tiene que ver pero bueno
+[10May2025 03:11:46.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agustin y maxilianoto
+[10May2025 03:11:47.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dea
+[10May2025 03:12:31.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 03:12:31.037] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1435
+}
+[10May2025 03:12:31.037] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 03:12:31.037] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "G$g(;F,mv,)g-+320#|As)"
+]

@@ -4144,5 +4144,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-10 03:05:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

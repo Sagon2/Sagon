@@ -3344,6 +3344,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-10 03:12:02 +0000",
       "rotten_flesh": "2025-05-10 02:18:59 +0000",
       "melon_slice": "2025-05-06 21:07:30 +0000"
     },
@@ -3790,6 +3791,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-05-10 02:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-10 03:05:41 +0000"
     },
     "done": true
   },
