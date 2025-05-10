@@ -3964,3 +3964,52 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [
   "a.r&N[ds480/FFa"
 ]
+[10May2025 05:27:40.263] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[10May2025 05:27:40.335] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10May2025 05:27:44.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [We Need to Go Deeper]
+[10May2025 05:27:46.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[10May2025 05:27:48.032] [Worker-Main-40/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77724, l='ServerLevel[world]', x=-83.00, y=31.00, z=95.00] as it would cause deadlock
+[10May2025 05:31:39.732] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 05:31:39.732] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1817864
+}
+[10May2025 05:31:39.732] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[10May2025 05:31:39.732] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8At|*v2)480%r%."
+]
+[10May2025 05:34:29.206] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 05:34:29.206] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15989
+}
+[10May2025 05:34:29.206] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 05:34:29.207] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K&W:T!y320Iu"
+]
+[10May2025 05:34:50.037] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10May2025 05:34:50.037] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 9750
+}
+[10May2025 05:34:50.037] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10May2025 05:34:50.037] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "e@t70!x|5M0IBu320JYW3"
+]
+[10May2025 05:35:32.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.3203733883876225
+[10May2025 05:35:32.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.41033952607318724
+[10May2025 05:35:32.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.5018990039975506
+[10May2025 05:35:32.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.6029395163826052
+[10May2025 05:35:32.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.7020823406376735
+[10May2025 05:35:34.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.4392350977657884
+[10May2025 05:35:34.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.6258894833235331
+[10May2025 05:35:34.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.814645717255928
+[10May2025 05:35:34.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.9920487779317
+[10May2025 05:35:34.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.8455150963727078
+[10May2025 05:35:34.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.7428364233520597
+[10May2025 05:35:35.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.676710724501902
+[10May2025 05:35:35.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of lobo3224) moved wrongly! 0.6423736986935182
+[10May2025 05:35:49.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!

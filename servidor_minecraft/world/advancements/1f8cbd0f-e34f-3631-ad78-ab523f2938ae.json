@@ -1716,6 +1716,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-03 01:22:36 +0000",
       "minecraft:skeleton": "2025-05-04 04:34:47 +0000",
+      "minecraft:magma_cube": "2025-05-10 05:30:22 +0000",
       "minecraft:spider": "2025-05-04 03:53:25 +0000",
       "minecraft:phantom": "2025-05-08 00:51:53 +0000",
       "minecraft:zombie": "2025-05-03 00:10:33 +0000",
@@ -6617,9 +6618,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-10 05:27:48 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-05-10 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-10 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-10 05:28:00 +0000"
     },
     "done": true
   },
@@ -6629,15 +6648,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-10 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-10 05:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-10 04:53:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-10 05:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-10 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-10 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-05-10 05:30:29 +0000"
     },
     "done": true
   },
@@ -6653,9 +6702,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-10 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-10 05:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-10 04:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-10 05:27:44 +0000"
     },
     "done": true
   },
