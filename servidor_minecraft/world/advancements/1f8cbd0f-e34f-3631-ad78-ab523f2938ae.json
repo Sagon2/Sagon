@@ -4762,6 +4762,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-05-10 05:11:55 +0000",
       "sugar_cane": "2025-05-04 05:02:01 +0000",
       "potato": "2025-05-03 05:14:53 +0000",
       "carrot": "2025-05-03 05:14:27 +0000"
@@ -6616,6 +6617,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-05-10 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 05:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-10 04:53:45 +0000"
@@ -6625,6 +6638,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-10 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 05:07:03 +0000"
     },
     "done": true
   },
