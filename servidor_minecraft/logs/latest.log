@@ -2661,3 +2661,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "QVWPb@%XcI480]43c"
 ]
+[11May2025 21:07:42.961] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[11May2025 21:10:13.913] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11May2025 21:10:13.914] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 102
+}
+[11May2025 21:10:13.914] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11May2025 21:10:13.914] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "e`u${@[w'Yp1wqx480HNp(`p"
+]
