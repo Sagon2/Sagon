@@ -2506,3 +2506,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "+<B9V'PB7R*lS336s0p: "
 ]
+[11May2025 20:30:26.938] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11May2025 20:30:26.938] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 181710096
+}
+[11May2025 20:30:26.939] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[11May2025 20:30:26.939] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "M>%t'!7Z~Lnng480~#/5xO6G"
+]
+[11May2025 20:30:40.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:37043] logged in with entity id 123 at (-333.4502813073094, 68.4, 1100.7652860462465)
+[11May2025 20:30:41.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[11May2025 20:30:41.182] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity AutomobileEntity['Automobile'/124, l='ServerLevel[world]', x=-333.45, y=68.00, z=1100.77] as it would cause deadlock
+[11May2025 20:30:41.579] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[11May2025 20:30:43.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[11May2025 20:30:43.893] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[11May2025 20:30:58.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[11May2025 20:30:59.790] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[11May2025 20:30:59.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[11May2025 20:32:12.456] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11May2025 20:32:12.456] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -1119574132
+}
+[11May2025 20:32:12.456] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[11May2025 20:32:12.457] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "RZS\\{320Y>w?.[1QF"
+]
