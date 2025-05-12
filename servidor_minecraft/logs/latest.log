@@ -2506,3 +2506,53 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "[;p:{+\"~V-s480T6H"
 ]
+[12May2025 01:51:23.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:57835] logged in with entity id 130 at (2991.699999988079, 81.0, -1781.300000011921)
+[12May2025 01:51:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[12May2025 01:51:23.629] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[12May2025 01:51:29.424] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[12May2025 01:51:29.426] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[12May2025 01:51:29.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6343ms or 126 ticks behind
+[12May2025 01:51:43.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[12May2025 01:51:44.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[12May2025 01:51:44.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[12May2025 01:54:03.275] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 01:54:03.276] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 202456452
+}
+[12May2025 01:54:03.276] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[12May2025 01:54:03.276] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "z\\$}prvl_r3201HGd&!"
+]
+[12May2025 01:54:59.393] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 01:54:59.394] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6538
+}
+[12May2025 01:54:59.394] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12May2025 01:54:59.394] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "4=xX1QuI5oy\"*G320)b}S#;"
+]
+[12May2025 01:55:27.568] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 01:55:27.568] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1624036
+}
+[12May2025 01:55:27.569] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[12May2025 01:55:27.569] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D{}y_fldfFl4805g}\""
+]
+[12May2025 01:57:02.224] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 01:57:02.225] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 117
+}
+[12May2025 01:57:02.225] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12May2025 01:57:02.225] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "KA~+E4(%2x]H/[ku3207G>3"
+]
+[12May2025 01:57:41.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1570, l='ServerLevel[world]', x=-335.36, y=-256.00, z=1106.68] died, message: 'Unemployed was killed'
