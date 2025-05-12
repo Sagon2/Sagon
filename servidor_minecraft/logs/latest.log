@@ -2556,3 +2556,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "KA~+E4(%2x]H/[ku3207G>3"
 ]
 [12May2025 01:57:41.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1570, l='ServerLevel[world]', x=-335.36, y=-256.00, z=1106.68] died, message: 'Unemployed was killed'
+[12May2025 02:04:10.200] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 02:04:10.200] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 39
+}
+[12May2025 02:04:10.200] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12May2025 02:04:10.201] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CrRT'{vN'rX`E%304*}V"
+]
