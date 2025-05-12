@@ -8565,18 +8565,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2025-05-12 04:45:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-05-12 04:45:44 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2025-05-12 04:28:54 +0000"
@@ -8589,21 +8577,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "has_chorus_fruit": "2025-05-12 04:44:41 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_abandoned_crypt": {
-    "criteria": {
-      "abandoned_crypt": "2025-05-12 05:00:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-05-12 04:43:34 +0000"
+      "barako": "2025-05-12 04:30:04 +0000"
     },
     "done": true
   },
@@ -8613,15 +8589,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-12 04:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-12 04:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-12 04:43:34 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_campfire": "2025-05-12 04:31:48 +0000"
+      "has_chorus_fruit": "2025-05-12 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-12 04:45:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-12 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-12 04:45:44 +0000"
     },
     "done": true
   },
@@ -8631,15 +8637,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "legendary_monsters:locate_abandoned_crypt": {
     "criteria": {
-      "barako": "2025-05-12 04:30:04 +0000"
+      "abandoned_crypt": "2025-05-12 05:00:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-05-12 04:45:40 +0000"
+      "ambusher": "2025-05-12 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-05-12 05:01:37 +0000"
     },
     "done": true
   },
