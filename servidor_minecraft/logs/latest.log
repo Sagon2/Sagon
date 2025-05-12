@@ -3474,3 +3474,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "2;dD7s>So%z3046fGNf"
 ]
+[12May2025 04:54:54.261] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 04:54:54.261] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13732
+}
+[12May2025 04:54:54.262] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12May2025 04:54:54.262] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CjaaN_NX480rcth"
+]
+[12May2025 04:57:04.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29577, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[12May2025 04:59:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the time to 1000]
+[12May2025 05:00:09.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[12May2025 05:00:33.229] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12May2025 05:00:33.229] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 12945
+}
+[12May2025 05:00:33.230] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12May2025 05:00:33.230] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "EUW>@9Et{aErte480!#Z"
+]
+[12May2025 05:00:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [A Terrifying Entrance]
+[12May2025 05:01:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Living Armor]
+[12May2025 05:01:24.892] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[12May2025 05:01:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Undead Guard]

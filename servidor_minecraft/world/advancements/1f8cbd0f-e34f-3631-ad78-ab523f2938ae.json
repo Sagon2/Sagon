@@ -1737,6 +1737,7 @@
       "minecraft:magma_cube": "2025-05-10 05:30:22 +0000",
       "minecraft:spider": "2025-05-04 03:53:25 +0000",
       "minecraft:piglin_brute": "2025-05-11 04:14:48 +0000",
+      "minecraft:creeper": "2025-05-12 04:59:52 +0000",
       "minecraft:phantom": "2025-05-08 00:51:53 +0000",
       "minecraft:wither_skeleton": "2025-05-12 04:37:15 +0000",
       "minecraft:cave_spider": "2025-05-11 01:24:59 +0000",
@@ -8591,6 +8592,12 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-05-12 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-05-12 05:00:35 +0000"
     },
     "done": true
   },
