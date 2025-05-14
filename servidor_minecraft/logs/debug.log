@@ -8625,3 +8625,193 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14May2025 22:05:57.006] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Santix15 to connected: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
 [14May2025 22:05:57.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [14May2025 22:05:57.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[14May2025 22:07:55.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 22:07:55.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 22:08:55.295] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14May2025 22:08:55.296] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 90
+}
+[14May2025 22:08:55.296] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[14May2025 22:08:55.296] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")K&KSc Jq2480CF"
+]
+[14May2025 22:09:23.981] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14May2025 22:09:23.982] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5538
+}
+[14May2025 22:09:23.982] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[14May2025 22:09:23.982] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#[1[^{a/2YX#i320B;&c"
+]
+[14May2025 22:09:34.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[14May2025 22:09:34.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[14May2025 22:09:34.392] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Santix15
+[14May2025 22:09:34.392] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Santix15
+[14May2025 22:09:34.392] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Santix15
+[14May2025 22:09:34.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[14May2025 22:09:34.393] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 1f8cbd0f-e34f-3631-ad78-ab523f2938ae to disconnected: {disabled=false, disconnected=true, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[14May2025 22:09:35.428] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.442] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.450] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.466] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.484] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.504] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.529] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.547] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:09:35.563] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47703
+[14May2025 22:10:20.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[14May2025 22:10:20.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[14May2025 22:10:20.439] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Santix15
+[14May2025 22:10:20.440] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[14May2025 22:10:20.502] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14May2025 22:11:05.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14May2025 22:11:05.877] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.877] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.877] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.879] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.879] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.879] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.879] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.880] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.880] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.880] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:05.888] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[14May2025 22:11:05.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14May2025 22:11:05.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14May2025 22:11:05.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14May2025 22:11:05.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14May2025 22:11:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14May2025 22:11:06.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[14May2025 22:11:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14May2025 22:11:06.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 22:11:06.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 22:11:06.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14May2025 22:11:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14May2025 22:11:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[14May2025 22:11:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14May2025 22:11:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14May2025 22:11:06.103] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.103] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.103] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.103] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.103] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.104] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.110] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.110] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.110] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.111] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.112] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.112] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.112] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.113] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.113] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.113] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.113] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.114] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.115] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.116] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.116] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.116] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.116] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.116] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[14May2025 22:11:06.121] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14May2025 22:11:06.122] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Sagon/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23368!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23363!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23363!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14May2025 22:11:06.123] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14May2025 22:11:06.123] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Sagon/servidor_minecraft/config/backpacked.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23294!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23368!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23363!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23363!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14May2025 22:11:06.124] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[14May2025 22:11:06.124] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14May2025 22:11:06.125] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[14May2025 22:11:06.195] [Server thread/DEBUG] [dev.uncandango.alltheleaks.AllTheLeaks/]: Rebuild listeners cache took 68ms
+[14May2025 22:11:06.195] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
