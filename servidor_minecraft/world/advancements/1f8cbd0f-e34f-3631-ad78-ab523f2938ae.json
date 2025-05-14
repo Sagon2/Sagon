@@ -8655,5 +8655,113 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-05-12 05:13:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-05-12 05:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-05-12 05:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-12 05:17:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
