@@ -1,27 +1,27 @@
-[14May2025 22:18:03.679] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[14May2025 22:18:03.683] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[14May2025 22:18:05.008] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14May2025 22:18:05.056] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Sagon/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14May2025 22:18:05.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 22:18:05.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 22:18:05.676] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 22:18:05.677] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 22:18:06.804] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[14May2025 22:18:06.807] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Sagon/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[14May2025 22:18:06.807] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 24 dependencies adding them to mods collection
-[14May2025 22:18:12.643] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14May2025 22:18:12.924] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
-[14May2025 22:18:13.464] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14May2025 22:18:13.771] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[14May2025 22:18:13.775] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[14May2025 22:18:13.809] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[14May2025 22:18:14.089] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 185 options available, 0 override(s) found
-[14May2025 22:18:14.126] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 22:18:14.168] [main/WARN] [mixin/]: Reference map 'enderitemod-forge-refmap.json' for enderitemod.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 22:18:14.262] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[14May2025 22:18:14.343] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 22:18:14.410] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 22:18:14.817] [main/INFO] [Puzzles Lib/]: Loading 140 mods:
+[14May2025 22:20:55.785] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14May2025 22:20:55.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[14May2025 22:20:56.877] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14May2025 22:20:56.929] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Sagon/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14May2025 22:20:57.508] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14May2025 22:20:57.509] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14May2025 22:20:57.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14May2025 22:20:57.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14May2025 22:20:58.170] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14May2025 22:20:58.173] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Sagon/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[14May2025 22:20:58.173] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 24 dependencies adding them to mods collection
+[14May2025 22:21:02.666] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14May2025 22:21:02.897] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[14May2025 22:21:03.341] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14May2025 22:21:03.565] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[14May2025 22:21:03.566] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[14May2025 22:21:03.597] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[14May2025 22:21:03.818] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 185 options available, 0 override(s) found
+[14May2025 22:21:03.875] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[14May2025 22:21:03.943] [main/WARN] [mixin/]: Reference map 'enderitemod-forge-refmap.json' for enderitemod.mixins.json could not be read. If this is a development environment you can ignore this message
+[14May2025 22:21:04.046] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[14May2025 22:21:04.106] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14May2025 22:21:04.163] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14May2025 22:21:04.460] [main/INFO] [Puzzles Lib/]: Loading 140 mods:
 	- aiimprovements 0.5.2
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -163,129 +163,129 @@
 	- waystones 14.1.8
 	- xaerominimap 25.0.0
 	- yungsapi 1.20-Forge-4.0.6
-[14May2025 22:18:14.864] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 22:18:15.766] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[14May2025 22:18:15.787] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[14May2025 22:18:15.939] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[14May2025 22:18:16.345] [main/WARN] [mixin/]: Error loading class: sereneseasons/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons.season.RandomUpdateHandler)
-[14May2025 22:18:16.345] [main/WARN] [mixin/]: @Mixin target sereneseasons.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin
-[14May2025 22:18:17.182] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[14May2025 22:18:18.229] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue ItemStackCreationStatistics from mod jei as it's dev only!
-[14May2025 22:18:18.229] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
-[14May2025 22:18:18.230] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.toolbelt.UntrackedIssue001 will NOT be loaded as mod toolbelt is not present
-[14May2025 22:18:18.230] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.tfcthermaldeposits.UntrackedIssue001 will NOT be loaded as mod tfcthermaldeposits is not present
-[14May2025 22:18:18.230] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.smallships.UntrackedIssue001 will NOT be loaded as mod smallships is not present
-[14May2025 22:18:18.230] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.railcraft.UntrackedIssue001 will NOT be loaded as mod railcraft is not present
-[14May2025 22:18:18.230] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
-[14May2025 22:18:18.231] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.occultism.UntrackedIssue001 will NOT be loaded as mod occultism is not present
-[14May2025 22:18:18.231] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.20.1 in 1.20.1
-[14May2025 22:18:18.232] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.EntityTickListMixin]
-[14May2025 22:18:18.232] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
-[14May2025 22:18:18.233] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.irons_spellbooks.UntrackedIssue001 will be loaded as it matches versions: 1.20.1-3.4.0.7 in [1.20.1-3.4.0,)
-[14May2025 22:18:18.233] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerEventsMixin]
-[14May2025 22:18:18.233] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue003 will be loaded as it matches versions: 47.3.7 in [47.2,)
-[14May2025 22:18:18.234] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue002 will be loaded as it matches versions: 47.3.7 in [47.2,)
-[14May2025 22:18:18.235] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [accessor.FakePlayerNetHandlerAccessor, accessor.ConnectionAccessor]
-[14May2025 22:18:18.236] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue001 will be loaded as it matches versions: 47.3.7 in [47.2,)
-[14May2025 22:18:18.238] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin]
-[14May2025 22:18:18.238] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forbidden_arcanus.UntrackedIssue001 will NOT be loaded as mod forbidden_arcanus is not present
-[14May2025 22:18:18.238] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.UntrackedIssue001 will be loaded as it matches versions: 5.11.1+1.20.1 in [5.9.1,)
-[14May2025 22:18:18.239] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.CuriosEventHandlerMixin]
-[14May2025 22:18:18.239] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.createaddition.UntrackedIssue001 will NOT be loaded as mod createaddition is not present
-[14May2025 22:18:18.240] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.create.UntrackedIssue001 will NOT be loaded as mod create is not present
-[14May2025 22:18:18.240] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.citadel.UntrackedIssue001 will be loaded as it matches versions: 2.6.1 in [2.5.4,)
-[14May2025 22:18:18.241] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.betterf3.UntrackedIssue001 will NOT be loaded as mod betterf3 is not present
-[14May2025 22:18:18.242] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
-[14May2025 22:18:18.242] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue002 will NOT be loaded as mod ars_nouveau is not present
-[14May2025 22:18:18.245] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue001 will NOT be loaded as mod ars_nouveau is not present
-[14May2025 22:18:18.245] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.architectury.UntrackedIssue001 will be loaded as it matches versions: 9.2.14 in [9.0.8,)
-[14May2025 22:18:18.245] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.aether.UntrackedIssue001 will NOT be loaded as mod aether is not present
-[14May2025 22:18:18.246] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
-[14May2025 22:18:18.246] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod twilightforest as it is client side only!
-[14May2025 22:18:18.246] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod travelersbackpack as it is client side only!
-[14May2025 22:18:18.247] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod tombstone as it is client side only!
-[14May2025 22:18:18.248] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod pneumaticcraft as it is client side only!
-[14May2025 22:18:18.248] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod nuclearcraft as it is client side only!
-[14May2025 22:18:18.248] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mousetweaks as it is client side only!
-[14May2025 22:18:18.249] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as it is client side only!
-[14May2025 22:18:18.249] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as mod modernfix is present!
-[14May2025 22:18:18.250] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecolonies as it is client side only!
-[14May2025 22:18:18.250] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ldlib as it is client side only!
-[14May2025 22:18:18.251] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod journeymap as it is client side only!
-[14May2025 22:18:18.254] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jeresources as it is client side only!
-[14May2025 22:18:18.254] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
-[14May2025 22:18:18.255] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
-[14May2025 22:18:18.255] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod irons_spellbooks as it is client side only!
-[14May2025 22:18:18.255] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
-[14May2025 22:18:18.256] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
-[14May2025 22:18:18.256] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
-[14May2025 22:18:18.257] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod geckolib as it is client side only!
-[14May2025 22:18:18.258] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ftblibrary as it is client side only!
-[14May2025 22:18:18.259] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod flywheel as it is client side only!
-[14May2025 22:18:18.259] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod findme as it is client side only!
-[14May2025 22:18:18.260] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi_loot as it is client side only!
-[14May2025 22:18:18.260] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi as it is client side only!
-[14May2025 22:18:18.261] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod easy_villagers as it is client side only!
-[14May2025 22:18:18.261] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod difficultylock as it is client side only!
-[14May2025 22:18:18.261] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod cyclopscore as it is client side only!
-[14May2025 22:18:18.261] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod corpse as it is client side only!
-[14May2025 22:18:18.262] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod blue_skies as it is client side only!
-[14May2025 22:18:18.263] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod badpackets as it is client side only!
-[14May2025 22:18:18.264] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
-[14May2025 22:18:18.265] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
-[14May2025 22:18:18.265] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.fix.common.mods.modernfix.CancelRLMixin will be loaded as it matches versions: 5.20.2+mc1.20.1 in [5.0.0,)
-[14May2025 22:18:18.269] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to cancel list: [org.embeddedt.modernfix.common.mixin.perf.deduplicate_location.MixinResourceLocation]
-[14May2025 22:18:18.276] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature ResourceLocation Deduplication from mod minecraft as it's feature flag is not activated!
-[14May2025 22:18:18.277] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Ingredient Deduplication from mod minecraft as it's feature flag is not activated!
-[14May2025 22:18:18.277] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Prevent Search Ignored Items from mod jei as it's feature flag is not activated!
-[14May2025 22:18:18.880] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14May2025 22:18:19.043] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
-[14May2025 22:18:19.396] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (18.51 s after launch)
-[14May2025 22:18:19.565] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14May2025 22:18:19.567] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14May2025 22:18:19.819] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[14May2025 22:18:19.819] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[14May2025 22:18:19.820] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[14May2025 22:18:20.665] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[14May2025 22:18:20.666] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[14May2025 22:18:21.126] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$cdm000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[14May2025 22:18:25.545] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[14May2025 22:18:25.545] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[14May2025 22:18:25.654] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 6252 milliseconds
-[14May2025 22:18:25.768] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
-[14May2025 22:18:25.769] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md48e773$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
-[14May2025 22:18:25.769] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md48e773$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
-[14May2025 22:18:27.530] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$baj000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[14May2025 22:18:28.172] [main/WARN] [mixin/]: Method overwrite conflict for m_7380_ in supplementaries-common.mixins.json:StrayMixin, previously written by net.jadenxgamer.netherexp.mixin.entity.StrayMixin. Skipping method.
-[14May2025 22:18:28.172] [main/WARN] [mixin/]: Method overwrite conflict for m_7378_ in supplementaries-common.mixins.json:StrayMixin, previously written by net.jadenxgamer.netherexp.mixin.entity.StrayMixin. Skipping method.
-[14May2025 22:18:28.616] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
-[14May2025 22:18:29.408] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[14May2025 22:21:04.482] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[14May2025 22:21:05.340] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14May2025 22:21:05.362] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14May2025 22:21:05.478] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[14May2025 22:21:05.828] [main/WARN] [mixin/]: Error loading class: sereneseasons/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons.season.RandomUpdateHandler)
+[14May2025 22:21:05.829] [main/WARN] [mixin/]: @Mixin target sereneseasons.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin
+[14May2025 22:21:06.668] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[14May2025 22:21:07.490] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue ItemStackCreationStatistics from mod jei as it's dev only!
+[14May2025 22:21:07.490] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[14May2025 22:21:07.491] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.toolbelt.UntrackedIssue001 will NOT be loaded as mod toolbelt is not present
+[14May2025 22:21:07.491] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.tfcthermaldeposits.UntrackedIssue001 will NOT be loaded as mod tfcthermaldeposits is not present
+[14May2025 22:21:07.492] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.smallships.UntrackedIssue001 will NOT be loaded as mod smallships is not present
+[14May2025 22:21:07.492] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.railcraft.UntrackedIssue001 will NOT be loaded as mod railcraft is not present
+[14May2025 22:21:07.493] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[14May2025 22:21:07.493] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.occultism.UntrackedIssue001 will NOT be loaded as mod occultism is not present
+[14May2025 22:21:07.494] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[14May2025 22:21:07.494] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.EntityTickListMixin]
+[14May2025 22:21:07.495] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[14May2025 22:21:07.495] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.irons_spellbooks.UntrackedIssue001 will be loaded as it matches versions: 1.20.1-3.4.0.7 in [1.20.1-3.4.0,)
+[14May2025 22:21:07.499] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerEventsMixin]
+[14May2025 22:21:07.500] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue003 will be loaded as it matches versions: 47.3.7 in [47.2,)
+[14May2025 22:21:07.501] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue002 will be loaded as it matches versions: 47.3.7 in [47.2,)
+[14May2025 22:21:07.504] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [accessor.FakePlayerNetHandlerAccessor, accessor.ConnectionAccessor]
+[14May2025 22:21:07.504] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue001 will be loaded as it matches versions: 47.3.7 in [47.2,)
+[14May2025 22:21:07.505] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin]
+[14May2025 22:21:07.505] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forbidden_arcanus.UntrackedIssue001 will NOT be loaded as mod forbidden_arcanus is not present
+[14May2025 22:21:07.506] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.UntrackedIssue001 will be loaded as it matches versions: 5.11.1+1.20.1 in [5.9.1,)
+[14May2025 22:21:07.506] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.CuriosEventHandlerMixin]
+[14May2025 22:21:07.506] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.createaddition.UntrackedIssue001 will NOT be loaded as mod createaddition is not present
+[14May2025 22:21:07.507] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.create.UntrackedIssue001 will NOT be loaded as mod create is not present
+[14May2025 22:21:07.507] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.citadel.UntrackedIssue001 will be loaded as it matches versions: 2.6.1 in [2.5.4,)
+[14May2025 22:21:07.507] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.betterf3.UntrackedIssue001 will NOT be loaded as mod betterf3 is not present
+[14May2025 22:21:07.509] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[14May2025 22:21:07.512] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue002 will NOT be loaded as mod ars_nouveau is not present
+[14May2025 22:21:07.514] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue001 will NOT be loaded as mod ars_nouveau is not present
+[14May2025 22:21:07.516] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.architectury.UntrackedIssue001 will be loaded as it matches versions: 9.2.14 in [9.0.8,)
+[14May2025 22:21:07.518] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.aether.UntrackedIssue001 will NOT be loaded as mod aether is not present
+[14May2025 22:21:07.519] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[14May2025 22:21:07.520] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod twilightforest as it is client side only!
+[14May2025 22:21:07.520] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod travelersbackpack as it is client side only!
+[14May2025 22:21:07.520] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod tombstone as it is client side only!
+[14May2025 22:21:07.521] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod pneumaticcraft as it is client side only!
+[14May2025 22:21:07.521] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod nuclearcraft as it is client side only!
+[14May2025 22:21:07.521] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mousetweaks as it is client side only!
+[14May2025 22:21:07.521] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as it is client side only!
+[14May2025 22:21:07.522] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as mod modernfix is present!
+[14May2025 22:21:07.522] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecolonies as it is client side only!
+[14May2025 22:21:07.522] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ldlib as it is client side only!
+[14May2025 22:21:07.522] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod journeymap as it is client side only!
+[14May2025 22:21:07.522] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jeresources as it is client side only!
+[14May2025 22:21:07.522] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
+[14May2025 22:21:07.523] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
+[14May2025 22:21:07.523] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod irons_spellbooks as it is client side only!
+[14May2025 22:21:07.523] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[14May2025 22:21:07.523] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[14May2025 22:21:07.523] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[14May2025 22:21:07.524] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod geckolib as it is client side only!
+[14May2025 22:21:07.524] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ftblibrary as it is client side only!
+[14May2025 22:21:07.524] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod flywheel as it is client side only!
+[14May2025 22:21:07.524] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod findme as it is client side only!
+[14May2025 22:21:07.525] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi_loot as it is client side only!
+[14May2025 22:21:07.525] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi as it is client side only!
+[14May2025 22:21:07.525] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod easy_villagers as it is client side only!
+[14May2025 22:21:07.525] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod difficultylock as it is client side only!
+[14May2025 22:21:07.525] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod cyclopscore as it is client side only!
+[14May2025 22:21:07.526] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod corpse as it is client side only!
+[14May2025 22:21:07.526] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod blue_skies as it is client side only!
+[14May2025 22:21:07.526] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod badpackets as it is client side only!
+[14May2025 22:21:07.526] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
+[14May2025 22:21:07.526] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
+[14May2025 22:21:07.526] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.fix.common.mods.modernfix.CancelRLMixin will be loaded as it matches versions: 5.20.2+mc1.20.1 in [5.0.0,)
+[14May2025 22:21:07.527] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to cancel list: [org.embeddedt.modernfix.common.mixin.perf.deduplicate_location.MixinResourceLocation]
+[14May2025 22:21:07.531] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature ResourceLocation Deduplication from mod minecraft as it's feature flag is not activated!
+[14May2025 22:21:07.533] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Ingredient Deduplication from mod minecraft as it's feature flag is not activated!
+[14May2025 22:21:07.534] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Prevent Search Ignored Items from mod jei as it's feature flag is not activated!
+[14May2025 22:21:08.065] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14May2025 22:21:08.236] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
+[14May2025 22:21:08.735] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (15.43 s after launch)
+[14May2025 22:21:08.860] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[14May2025 22:21:08.861] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[14May2025 22:21:09.053] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[14May2025 22:21:09.053] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[14May2025 22:21:09.053] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[14May2025 22:21:09.558] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14May2025 22:21:09.558] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14May2025 22:21:09.654] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$cdm000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14May2025 22:21:11.159] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14May2025 22:21:11.161] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[14May2025 22:21:11.247] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2507 milliseconds
+[14May2025 22:21:11.360] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[14May2025 22:21:11.361] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mdb7ac4f$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[14May2025 22:21:11.362] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mdb7ac4f$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[14May2025 22:21:12.793] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$baj000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14May2025 22:21:13.365] [main/WARN] [mixin/]: Method overwrite conflict for m_7380_ in supplementaries-common.mixins.json:StrayMixin, previously written by net.jadenxgamer.netherexp.mixin.entity.StrayMixin. Skipping method.
+[14May2025 22:21:13.366] [main/WARN] [mixin/]: Method overwrite conflict for m_7378_ in supplementaries-common.mixins.json:StrayMixin, previously written by net.jadenxgamer.netherexp.mixin.entity.StrayMixin. Skipping method.
+[14May2025 22:21:13.679] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[14May2025 22:21:14.331] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[14May2025 22:18:29.583] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in lithium.mixins.json:world.temperature_cache.BiomeMixin, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
-[14May2025 22:18:30.109] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[14May2025 22:18:30.110] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[14May2025 22:18:30.122] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[14May2025 22:18:30.123] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[14May2025 22:18:30.124] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[14May2025 22:18:30.153] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[14May2025 22:18:30.238] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
-[14May2025 22:18:30.466] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
-[14May2025 22:18:30.571] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[14May2025 22:18:30.572] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[14May2025 22:18:30.718] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[14May2025 22:18:30.873] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[14May2025 22:18:31.005] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[14May2025 22:18:31.099] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[14May2025 22:18:31.211] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[14May2025 22:18:31.226] [modloading-worker-0/INFO] [TimeOnDisplay/]: Hello Forge world!
-[14May2025 22:18:31.231] [modloading-worker-0/INFO] [TimeOnDisplay/]: Hello from TimeOnDisplay Common init on Forge! we are currently in a production environment!
-[14May2025 22:18:31.231] [modloading-worker-0/INFO] [TimeOnDisplay/]: The ID for diamonds is minecraft:diamond
-[14May2025 22:18:31.232] [modloading-worker-0/INFO] [TimeOnDisplay/]: Hello to TimeOnDisplay
-[14May2025 22:18:31.481] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[14May2025 22:18:31.641] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
-[14May2025 22:18:31.701] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalbonemeal:main
-[14May2025 22:18:31.809] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[modloading-worker-0,5,main]
-[14May2025 22:18:31.809] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[14May2025 22:21:14.541] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in lithium.mixins.json:world.temperature_cache.BiomeMixin, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
+[14May2025 22:21:15.172] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[14May2025 22:21:15.174] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[14May2025 22:21:15.189] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[14May2025 22:21:15.191] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[14May2025 22:21:15.196] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[14May2025 22:21:15.229] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[14May2025 22:21:15.324] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[14May2025 22:21:15.560] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[14May2025 22:21:15.751] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[14May2025 22:21:15.752] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[14May2025 22:21:15.880] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[14May2025 22:21:16.165] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[14May2025 22:21:16.315] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14May2025 22:21:16.429] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[14May2025 22:21:16.606] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[14May2025 22:21:16.616] [modloading-worker-0/INFO] [TimeOnDisplay/]: Hello Forge world!
+[14May2025 22:21:16.621] [modloading-worker-0/INFO] [TimeOnDisplay/]: Hello from TimeOnDisplay Common init on Forge! we are currently in a production environment!
+[14May2025 22:21:16.622] [modloading-worker-0/INFO] [TimeOnDisplay/]: The ID for diamonds is minecraft:diamond
+[14May2025 22:21:16.622] [modloading-worker-0/INFO] [TimeOnDisplay/]: Hello to TimeOnDisplay
+[14May2025 22:21:16.789] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[14May2025 22:21:17.105] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
+[14May2025 22:21:17.203] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalbonemeal:main
+[14May2025 22:21:17.254] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[modloading-worker-0,5,main]
+[14May2025 22:21:17.255] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -333,41 +333,41 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[14May2025 22:18:31.813] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[14May2025 22:18:31.859] [modloading-worker-0/INFO] [AutoMessage/]: Hello Forge world!
-[14May2025 22:18:31.862] [modloading-worker-0/INFO] [AutoMessage/]: Hello from AutoMessage Common init on Forge! we are currently in a production environment!
-[14May2025 22:18:31.863] [modloading-worker-0/INFO] [AutoMessage/]: The ID for diamonds is minecraft:diamond
-[14May2025 22:18:31.864] [modloading-worker-0/INFO] [AutoMessage/]: Hello to AutoMessage
-[14May2025 22:18:31.948] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14May2025 22:18:31.948] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14May2025 22:18:31.965] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[14May2025 22:18:32.382] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[14May2025 22:18:32.384] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[14May2025 22:18:32.384] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[14May2025 22:18:32.386] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
-[14May2025 22:18:32.391] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
-[14May2025 22:18:32.391] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
-[14May2025 22:18:32.397] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
-[14May2025 22:18:32.400] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
-[14May2025 22:18:32.816] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
-[14May2025 22:18:32.909] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for bettertridents:main
-[14May2025 22:18:33.003] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
-[14May2025 22:18:33.044] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[14May2025 22:18:33.050] [modloading-worker-0/ERROR] [BadOptimizations/]: BadOptimizations is a client-only mod, this will have no effect on a server.
-[14May2025 22:18:33.082] [modloading-worker-0/WARN] [de.keksuccino.loadmyresources.LoadMyResources/]: ## WARNING ## 'Load My Resources' is a client mod and has no effect when loaded on a server!
-[14May2025 22:18:34.193] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [snowrealmagic:core] initialized
-[14May2025 22:18:34.194] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
-[14May2025 22:18:34.194] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
-[14May2025 22:18:34.195] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
-[14May2025 22:18:34.195] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
-[14May2025 22:18:34.195] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
-[14May2025 22:18:34.196] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
-[14May2025 22:18:35.284] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
-[14May2025 22:18:35.285] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[14May2025 22:18:35.285] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
-[14May2025 22:18:35.286] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[14May2025 22:18:36.342] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
-[14May2025 22:18:36.343] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[14May2025 22:21:17.263] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[14May2025 22:21:17.373] [modloading-worker-0/INFO] [AutoMessage/]: Hello Forge world!
+[14May2025 22:21:17.375] [modloading-worker-0/INFO] [AutoMessage/]: Hello from AutoMessage Common init on Forge! we are currently in a production environment!
+[14May2025 22:21:17.375] [modloading-worker-0/INFO] [AutoMessage/]: The ID for diamonds is minecraft:diamond
+[14May2025 22:21:17.375] [modloading-worker-0/INFO] [AutoMessage/]: Hello to AutoMessage
+[14May2025 22:21:17.484] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[14May2025 22:21:17.505] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14May2025 22:21:17.506] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14May2025 22:21:17.758] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[14May2025 22:21:17.762] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[14May2025 22:21:17.763] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[14May2025 22:21:17.849] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
+[14May2025 22:21:17.851] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
+[14May2025 22:21:17.851] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
+[14May2025 22:21:17.854] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
+[14May2025 22:21:17.855] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
+[14May2025 22:21:18.520] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for bettertridents:main
+[14May2025 22:21:18.525] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
+[14May2025 22:21:18.673] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
+[14May2025 22:21:18.715] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[14May2025 22:21:18.732] [modloading-worker-0/ERROR] [BadOptimizations/]: BadOptimizations is a client-only mod, this will have no effect on a server.
+[14May2025 22:21:18.753] [modloading-worker-0/WARN] [de.keksuccino.loadmyresources.LoadMyResources/]: ## WARNING ## 'Load My Resources' is a client mod and has no effect when loaded on a server!
+[14May2025 22:21:19.892] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [snowrealmagic:core] initialized
+[14May2025 22:21:19.893] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
+[14May2025 22:21:19.894] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[14May2025 22:21:19.894] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[14May2025 22:21:19.895] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[14May2025 22:21:19.895] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[14May2025 22:21:19.895] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[14May2025 22:21:20.881] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[14May2025 22:21:20.882] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 22:21:20.882] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[14May2025 22:21:20.882] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 22:21:21.704] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
+[14May2025 22:21:21.704] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -435,9 +435,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[14May2025 22:18:36.348] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.VoidBlossomBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[14May2025 22:18:36.350] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
-[14May2025 22:18:36.351] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[14May2025 22:21:21.712] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.VoidBlossomBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 22:21:21.714] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
+[14May2025 22:21:21.715] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -505,9 +505,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[14May2025 22:18:36.358] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.VoidBlossomBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[14May2025 22:18:36.367] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
-[14May2025 22:18:36.368] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[14May2025 22:21:21.722] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.VoidBlossomBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 22:21:21.732] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
+[14May2025 22:21:21.732] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -576,9 +576,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[14May2025 22:18:36.375] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.MobWardBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[14May2025 22:18:36.377] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
-[14May2025 22:18:36.378] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[14May2025 22:21:21.735] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.MobWardBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 22:21:21.736] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@10618775 on thread Thread[main,5,main]
+[14May2025 22:21:21.736] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -647,60 +647,51 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[14May2025 22:18:36.383] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.MobWardBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[14May2025 22:18:36.968] [main/INFO] [Moonlight/]: Initialized block sets in 23ms
-[14May2025 22:18:39.176] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[14May2025 22:18:39.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[14May2025 22:18:39.644] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[14May2025 22:18:39.680] [main/INFO] [Puzzles Lib/]: Loading common config for bettertridents
-[14May2025 22:18:39.837] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[14May2025 22:18:39.838] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[14May2025 22:18:39.837] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
-[14May2025 22:18:39.873] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[14May2025 22:18:39.980] [modloading-worker-0/INFO] [me.steinborn.krypton.mod.shared.Krypton/]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[14May2025 22:18:40.212] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[14May2025 22:18:40.225] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[14May2025 22:18:40.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[14May2025 22:18:40.259] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
-[14May2025 22:18:40.296] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[14May2025 22:18:40.306] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[14May2025 22:18:40.307] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[14May2025 22:18:40.307] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[14May2025 22:18:40.341] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[14May2025 22:18:40.341] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[14May2025 22:18:40.341] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[14May2025 22:18:40.343] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[14May2025 22:18:40.379] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 2, 0, 0, 14, 5, 1] ms
-[14May2025 22:18:40.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[14May2025 22:18:40.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
-[14May2025 22:18:40.456] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[14May2025 22:18:40.594] [main/INFO] [Moonlight/]: Initialized color sets in 52ms
-[14May2025 22:18:40.625] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[14May2025 22:18:40.625] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[14May2025 22:18:40.731] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[14May2025 22:18:40.754] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[14May2025 22:18:40.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
-[14May2025 22:18:40.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[14May2025 22:18:40.936] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[14May2025 22:18:40.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.24 Target: null
-[14May2025 22:18:40.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[14May2025 22:18:41.042] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 56 compatible attributes.
-[14May2025 22:18:41.046] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 56 values from config.
-[14May2025 22:18:41.058] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 56 entries.
-[14May2025 22:18:41.059] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 56 attributes.
-[14May2025 22:18:41.086] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.snow.compat.jade.JadeCompat
-[14May2025 22:18:41.091] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[14May2025 22:18:41.093] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
-[14May2025 22:18:41.094] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[14May2025 22:18:41.094] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[14May2025 22:18:41.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[14May2025 22:18:41.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[14May2025 22:18:41.106] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[14May2025 22:18:41.110] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[14May2025 22:18:41.111] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[14May2025 22:18:41.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[14May2025 22:18:41.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[14May2025 22:18:41.390] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14May2025 22:21:21.738] [main/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.MobWardBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 22:21:22.330] [main/INFO] [Moonlight/]: Initialized block sets in 22ms
+[14May2025 22:21:24.456] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[14May2025 22:21:24.463] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[14May2025 22:21:24.844] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[14May2025 22:21:24.867] [main/INFO] [Puzzles Lib/]: Loading common config for bettertridents
+[14May2025 22:21:25.021] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[14May2025 22:21:25.022] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[14May2025 22:21:25.021] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[14May2025 22:21:25.108] [modloading-worker-0/INFO] [me.steinborn.krypton.mod.shared.Krypton/]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[14May2025 22:21:25.145] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[14May2025 22:21:25.175] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[14May2025 22:21:25.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[14May2025 22:21:25.200] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[14May2025 22:21:25.219] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[14May2025 22:21:25.234] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[14May2025 22:21:25.235] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[14May2025 22:21:25.235] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[14May2025 22:21:25.263] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[14May2025 22:21:25.263] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[14May2025 22:21:25.270] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[14May2025 22:21:25.272] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[14May2025 22:21:25.303] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 0, 0, 0, 12, 9, 1] ms
+[14May2025 22:21:25.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[14May2025 22:21:25.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[14May2025 22:21:25.388] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[14May2025 22:21:25.531] [main/INFO] [Moonlight/]: Initialized color sets in 56ms
+[14May2025 22:21:25.559] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[14May2025 22:21:25.559] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[14May2025 22:21:25.827] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[14May2025 22:21:25.851] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[14May2025 22:21:25.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[14May2025 22:21:25.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[14May2025 22:21:25.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.24 Target: null
+[14May2025 22:21:25.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[14May2025 22:21:25.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[14May2025 22:21:25.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[14May2025 22:21:26.033] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[14May2025 22:21:26.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[14May2025 22:21:26.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[14May2025 22:21:26.138] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 56 compatible attributes.
+[14May2025 22:21:26.142] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 56 values from config.
+[14May2025 22:21:26.149] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 56 entries.
+[14May2025 22:21:26.150] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 56 attributes.
+[14May2025 22:21:26.155] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -715,8 +706,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 22:18:41.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[14May2025 22:18:41.416] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14May2025 22:21:26.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[14May2025 22:21:26.177] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -731,31 +722,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 22:18:41.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14May2025 22:18:41.422] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.422] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.423] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.424] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.425] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.426] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.426] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.427] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.427] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.427] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.428] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.428] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.435] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.434] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14May2025 22:21:26.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[14May2025 22:21:26.184] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.snow.compat.jade.JadeCompat
+[14May2025 22:21:26.191] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[14May2025 22:21:26.192] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
+[14May2025 22:21:26.193] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[14May2025 22:21:26.194] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[14May2025 22:21:26.197] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -770,109 +743,135 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 22:18:41.435] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenumodoption] Starting version check at https://raw.githubusercontent.com/MORIMORI0317/GameMenuModOption/master/version_check.json
-[14May2025 22:18:41.436] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.436] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.437] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.437] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.437] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.438] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.438] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.438] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.439] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.439] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.439] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.439] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.440] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.440] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.441] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.441] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.441] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.441] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.442] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.442] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.442] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.443] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.443] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.443] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.444] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.444] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.444] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.444] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.445] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.445] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.445] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.446] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.446] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.446] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.447] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.447] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.448] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.448] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.448] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.448] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.449] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.449] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.449] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.449] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.453] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.453] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.453] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.455] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.455] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.456] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.456] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.456] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.457] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.457] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.460] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.460] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.460] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14May2025 22:18:41.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14May2025 22:18:41.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenumodoption] Found status: UP_TO_DATE Current: 2.2.1 Target: null
-[14May2025 22:18:41.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[14May2025 22:18:41.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[14May2025 22:18:41.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[14May2025 22:18:41.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
-[14May2025 22:18:41.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[14May2025 22:18:41.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[14May2025 22:18:41.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalbonemeal.json
-[14May2025 22:18:41.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[14May2025 22:18:41.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[14May2025 22:18:41.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[14May2025 22:18:41.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[14May2025 22:18:41.966] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14May2025 22:21:26.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenumodoption] Starting version check at https://raw.githubusercontent.com/MORIMORI0317/GameMenuModOption/master/version_check.json
+[14May2025 22:21:26.207] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[14May2025 22:21:26.211] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[14May2025 22:21:26.213] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[14May2025 22:21:26.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gamemenumodoption] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[14May2025 22:21:26.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[14May2025 22:21:26.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[14May2025 22:21:26.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[14May2025 22:21:26.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.452] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.453] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.453] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.454] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.455] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.455] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.456] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.456] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.456] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.457] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.458] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.459] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.460] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.460] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.460] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.461] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.462] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.463] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.464] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.464] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.465] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.465] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.465] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.466] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.466] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.466] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.467] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.467] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.467] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.467] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.467] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.468] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.468] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.468] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.469] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.469] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.469] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.469] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.469] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.471] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.471] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.473] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.473] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.474] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.474] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.474] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.477] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.477] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.477] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.481] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.481] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.481] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.481] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14May2025 22:21:26.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14May2025 22:21:26.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[14May2025 22:21:26.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[14May2025 22:21:26.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[14May2025 22:21:26.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalbonemeal.json
+[14May2025 22:21:26.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[14May2025 22:21:26.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[14May2025 22:21:26.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[14May2025 22:21:26.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[14May2025 22:21:26.760] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -887,10 +886,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 22:18:41.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[14May2025 22:18:41.976] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14May2025 22:18:42.078] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[14May2025 22:18:42.096] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[14May2025 22:21:26.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[14May2025 22:21:26.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[14May2025 22:21:26.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[14May2025 22:21:26.923] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23364!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23364!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[14May2025 22:21:26.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[14May2025 22:21:26.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[14May2025 22:21:26.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14May2025 22:21:26.960] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14May2025 22:21:27.069] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[14May2025 22:21:27.099] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraft.util.DirectoryLock$LockException: /workspaces/Sagon/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23363!/:?]
 	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23363!/:?]
@@ -912,3 +931,5 @@ net.minecraft.util.DirectoryLock$LockException: /workspaces/Sagon/servidor_minec
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[14May2025 22:21:27.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[14May2025 22:21:27.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
