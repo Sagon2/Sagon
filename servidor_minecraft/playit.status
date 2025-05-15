@@ -94,3 +94,9 @@ blog-multi.gl.at.ply.gg:2216 => 127.0.0.1:2216 (proto: Udp, port count: 1)
 TUNNELS
 publications-hop.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 blog-multi.gl.at.ply.gg:2216 => 127.0.0.1:2216 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747261435357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+publications-hop.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+blog-multi.gl.at.ply.gg:2216 => 127.0.0.1:2216 (proto: Udp, port count: 1)
