@@ -2583,3 +2583,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [15May2025 02:41:47.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
 [15May2025 02:45:49.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11939, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[15May2025 02:46:58.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15May2025 02:46:58.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 18
+}
+[15May2025 02:46:58.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15May2025 02:46:58.865] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[DEb9z]N)<r1t336%y=v"
+]
+[15May2025 02:48:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Nightmare Stalker
+[15May2025 02:50:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15May2025 02:50:06.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stopop lobo3224<--[HERE]
+[15May2025 02:50:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[15May2025 02:53:52.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/13932, l='ServerLevel[world]', x=-308.38, y=68.00, z=1135.95] died, message: 'Librarian was slain by Zombie Villager'
