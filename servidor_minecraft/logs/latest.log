@@ -2491,3 +2491,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15May2025 01:54:58.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
 [15May2025 01:55:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
 [15May2025 01:55:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Made lobo3224 no longer a server operator]
+[15May2025 02:17:12.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[15May2025 02:17:12.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[15May2025 02:17:12.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15May2025 02:17:40.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 was kicked for floating too long!
+[15May2025 02:17:40.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[15May2025 02:17:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[15May2025 02:17:40.968] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[15May2025 02:17:41.022] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15May2025 02:18:26.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.137.240.139:53375] logged in with entity id 5581 at (-302.6695564290989, 68.79673560066871, 1138.8458978963763)
+[15May2025 02:18:26.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[15May2025 02:18:26.113] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[15May2025 02:18:26.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[15May2025 02:18:26.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15May2025 02:18:34.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15May2025 02:18:41.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15May2025 02:18:41.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[15May2025 02:19:27.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[15May2025 02:20:10.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[15May2025 02:20:10.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[15May2025 02:20:10.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15May2025 02:20:54.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Timed out
+[15May2025 02:20:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[15May2025 02:20:54.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[15May2025 02:21:40.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.222.253.55:48227] logged in with entity id 6405 at (-305.6528133494458, 68.49520087700593, 1156.1128430447561)
+[15May2025 02:21:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[15May2025 02:21:40.352] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[15May2025 02:21:41.239] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[15May2025 02:21:41.240] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15May2025 02:21:46.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15May2025 02:21:48.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15May2025 02:21:48.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[15May2025 02:22:03.693] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15May2025 02:22:03.694] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10340
+}
+[15May2025 02:22:03.694] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15May2025 02:22:03.694] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "WxUJYhD8X's3Y{320!>"
+]
+[15May2025 02:23:55.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[15May2025 02:23:55.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[15May2025 02:23:55.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15May2025 02:24:25.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[15May2025 02:24:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[15May2025 02:24:25.210] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[15May2025 02:26:19.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.137.240.139:38441] logged in with entity id 7144 at (-308.8075101247351, 68.0, 1157.825979826537)
+[15May2025 02:26:19.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[15May2025 02:26:19.944] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[15May2025 02:26:20.894] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[15May2025 02:26:20.895] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15May2025 02:26:24.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15May2025 02:26:25.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15May2025 02:26:25.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
